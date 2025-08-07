@@ -46,15 +46,15 @@ The system combines powerful **deep learning models**  to perform real-time land
 - Label masks generated for binary segmentation (landslide vs. background)
 
 ### 🔁 Data Split:
-- **Training Set**: 70%
-- **Validation Set**: 15%
-- **Test Set**: 15%
+- **Training Set**: 60%
+- **Validation Set**: 30%
+- **Test Set**: 10%
 
 ### 🛑 Class Balance:
 - Balanced dataset with equal representation of:
   - Landslide images
   - Non-landslide images
 #### 📂 Source:
-- **Kaggle**:We can download datasets from this webiste,download the dataset which is balanced in both cases and diversed 
+- **Kaggle**:We can download dataset from this website,download the dataset which is balanced in both true and false cases and diversed 
 ---
 
